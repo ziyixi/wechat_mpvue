@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/todolist/todolist_category/main",
+    "pages/todolist/todolist_content/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "Small House For Ziyi",
+    "navigationBarTextStyle": "black"
+  }
+}
